@@ -15,3 +15,5 @@ Data Science Portfolio
 * Also performed a time sensitive analysis of the impact that LTA campaigns had on the number of road traffic accidents in a particular year
 
 # Project 4: Sentiment analysis towards George Floyd and the Minneapolis riots
+
+# Project 5: OECD GDP analysis for ASEAN countries. Data taken from data.oecd.org
